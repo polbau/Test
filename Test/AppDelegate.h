@@ -4,6 +4,7 @@
 //
 //  Created by pol.bau on 20/02/14.
 //  Copyright (c) 2014 pol.bau. All rights reserved.
+//  Comentari Pol
 //
 
 #import <UIKit/UIKit.h>
